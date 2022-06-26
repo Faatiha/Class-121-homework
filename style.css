@@ -1,0 +1,33 @@
+#header{
+  color: red;
+}
+#googleLens{
+  height: 100px;
+  width: 100px;
+}
+hr{
+  width:900px;
+  color:black;
+}
+.copy_right_footer{
+  text-align: center;
+  background-color: rgb(228, 220, 245);
+}
+.test_image_and_result{
+  background-color: lightgray;
+  border-radius: 40px;
+  width:1350px;
+
+}
+
+.image-responsive{
+  height:200px;
+  width:200px;
+  border: 2px solid black;
+  border-radius: 40px;
+  margin-top:10px;
+}
+#do_it_yourself{
+  text-align: center;
+  font-size:11px;
+}
